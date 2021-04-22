@@ -1,0 +1,54 @@
+Name: Julien Bosco
+Location: Sherbrooke, Québec, Canada
+
+Contact:
+  Email: julien.bosco@gmail.com
+  GitHub: julienbosco
+
+Languages:
+  - Français (langue maternelle)
+  - Anglais (langue parlée et écrite)
+
+Education:
+  - Entity: Université de Sherbrooke
+    Location: Sherbrooke, Québec, Canada
+    Credential: Maître en génie électrique
+    Started: 2014
+    Finished: 2017
+    GPA: "3.03"
+
+  - Entity: Université de Sherbrooke
+    Location: Sherbrooke, Québec, Canada
+    Credential: Baccalauréat en génie électrique
+    Started: 2009
+    Finished: 2013
+    GPA: "3.10"
+
+Employment:
+  - Role: Enseignant en technologie du génie électrique
+    Entity: Cégep de Sherbrooke
+    Started: Janvier 2017
+    Location: Sherbrooke, Québec, Canada
+    Details:
+    - Enseigne la partie réseaux et informatique du programme
+    - Gère la migration de l'infrastructure de département de Novell vers Active Directory
+
+  - Role: Chargé de cours au baccalauréat en génie électrique
+    Entity: Université de Sherbrooke
+    Started: Janvier 2015
+    Finished: Décembre 2016
+    Location: Sherbrooke, Québec, Canada
+    Details:
+      - Enseignait le traitement de signal et la programmation embarquée
+      - Réécris les laboratoires modernisant les outils utilisés
+
+  - Role: Consultant en développement embarqué
+    Entity: THS inc.
+    Started: Décembre 2015
+    Finished: Janvier 2016
+    Location: St-Hubert, Québec, Canada
+    Details:
+      - Conception d'un simulateur de défectuosités électriques utilisé comme système de validation pour un détecteur de trouble électrique de systèmes avioniques.
+      - 
+
+
